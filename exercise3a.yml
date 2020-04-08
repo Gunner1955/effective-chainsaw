@@ -1,6 +1,6 @@
 ---
-- name Exercise 3a
-hosts:localhost
-tasks
-  - debug
-      var:ansible_host
+- name: Exercise 3a
+  hosts: localhost
+  tasks: 
+   - debug:
+       var: ansible_host
