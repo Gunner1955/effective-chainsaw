@@ -2,7 +2,11 @@
 network_devices 
   - host:NewYork.Edge
   - username:Gunner1000
+<<<<<<< HEAD
   - password:43y@rdl!!
+=======
+  - password:43y@rd!!
+>>>>>>> 8b1f1c9615ec8312bf873002c37ec09fc5dfea6a
   - Device_Type:Cisco_IOS
   - Use_Session_Log:False
   - Ip_Addresses

@@ -2,7 +2,11 @@
   2 ROUTER100:
   3   host:  NewYork.edge
   4   username:  Gunner1000
+<<<<<<< HEAD
   5   password:  43y@rd!!:
+=======
+  5   password:  43y@rd!!
+>>>>>>> 8b1f1c9615ec8312bf873002c37ec09fc5dfea6a
   6   Device_type:  cisco_ios
   7   use-session_log: False
 
