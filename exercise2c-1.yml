@@ -1,0 +1,23 @@
+[all:vars]
+ansible_python_interpreter=~/VENV/py3_venv/bin/python
+ansible_connection=Local
+ansible_user=Gunner1000
+ansible_ssh_pass=43Y@rd!!
+
+[local]
+localhost
+ 
+[cisco]
+cisco100 ansible_host=cisco100.lasthop.io
+cisco200 ansible_host=cisco200.lasthop.io
+ 
+[cisco:vars]
+ansible_network_os=ios
+ 
+[arista]
+arista100 ansible_host=arista100.lasthop.io
+arista200 ansible_host=arista200.lasthop.io
+ 
+[arista:vars]
+ansible_network_os=eos
+

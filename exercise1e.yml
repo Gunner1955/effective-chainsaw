@@ -1,8 +1,8 @@
 ---
 network_devices 
   - host:NewYork.Edge
-  - username:Gunner9520
-  - password:43y@rdln
+  - username:Gunner1000
+  - password:43y@rdl!!
   - Device_Type:Cisco_IOS
   - Use_Session_Log:False
   - Ip_Addresses
@@ -10,8 +10,8 @@ network_devices
       - 192.168.199.1
       - 192.168.198.1
   - Host:Baltimore.Edge
-  - Username:Gunner9520
-  - Password:43y@rdln
+  - Username:Gunner1000
+  - Password:43y@rd!!
   - Device_Type:Cisco_IOS
   - Use_Session_Log:False
   - IP_Address
